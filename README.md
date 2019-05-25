@@ -5,7 +5,7 @@ Live Cricket ball by ball desktop notification for linux distros. Tested on Ubun
 Run in terminal :
 * `sudo apt-get install python-gobject`
 * `sudo apt-get install libnotify-bin`
-* `sudo apt-get install libnotify-dev'
+* `sudo apt-get install libnotify-dev`
 
 # Modules Requirement
 * pycricbuzz
